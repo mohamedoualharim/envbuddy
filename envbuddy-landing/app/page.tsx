@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
-import { ArrowRight, CheckCircle2, Code2, Globe, Lock, Rocket, Shield, Users, Terminal, Cloud, Key } from "lucide-react"
+import { ArrowRight, CheckCircle2, Code2, Rocket, Users, Terminal, Cloud, Key } from "lucide-react"
 import Link from "next/link"
 
 export default function Home() {
